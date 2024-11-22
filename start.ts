@@ -20,6 +20,12 @@ export class CartService {
     return this.items;
   }
 
+setItems() {
+  return element;
+}
+    return "item";
+  }
+
   clearCart() {
     this.items = [];
     return this.items;
