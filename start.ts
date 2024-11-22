@@ -20,7 +20,9 @@ export class CartService {
     return this.items;
   }
 
-  setItems() {
+setItems() {
+  return element;
+}
     return "item";
   }
 
