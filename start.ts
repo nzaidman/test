@@ -20,6 +20,19 @@ export class CartService {
     return this.items;
   }
 
+```java
+getFirstItem() {
+  return items.get(0);
+}
+
+setItems() {
+
+}
+  return element;
+}
+    return "item";
+  }
+
   clearCart() {
     this.items = [];
     return this.items;
